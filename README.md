@@ -79,6 +79,6 @@ Feel free to explore the dashboard or contact me for further discussion.
 
 🔗 Dashboard : https://lookerstudio.google.com/reporting/2eeef253-148a-4378-9759-8fb1849f1844
 
-🔗 Linkedin : https://www.linkedin.com/in/fadliansyahrahman/
+🔗 Linkedln : https://www.linkedin.com/in/fadliansyahrahman/
 
 📩 Email : fadliansyahfadel01@gmail.com
